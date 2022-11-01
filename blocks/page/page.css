@@ -1,3 +1,12 @@
+/*Удалить перед отправкой на ревью*/
+:root {
+  --border-block: 1px solid darkorange;
+}
+
 .page {
+  padding: 0;
+  margin: 0;
+  outline: none;
   background-color: #2A2C2F;
+  color: #fff;
 }
