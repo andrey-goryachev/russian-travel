@@ -1,5 +1,4 @@
 .lead {
-  /*outline: var(--border-block);*/
   width: 984px;
   margin: 56px auto 0;
   display: flex;
@@ -17,7 +16,6 @@
 @media screen and (max-width: 1000px) {
   .lead {
     width: 95%;
-    /*margin-top: 48px;*/
   }
 }
 
