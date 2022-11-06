@@ -7,15 +7,6 @@
   line-height: 1.12;
 }
 
-.footer__item {
-  /*display: block;*/
-  /*margin: 0;*/
-  /*padding: 0;*/
-  /*min-height: 100%;*/
-
-}
-
-
 @media screen and (max-width: 735px) {
   .footer__link {
     font-size: 24px;

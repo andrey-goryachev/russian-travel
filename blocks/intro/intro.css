@@ -5,12 +5,6 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 1024px) {
-  .intro {
-    /*width: 928px;*/
-  }
-}
-
 @media screen and (max-width: 1010px) {
   .intro {
     width: 93.75vw;
@@ -20,13 +14,8 @@
 
 @media screen and (max-width: 768px) {
   .intro {
-    /*width: 93.75vw;*/
     padding: 0;
     margin: 88px auto;
-  }
-
-  .intro__container {
-    /*width: 100%;*/
   }
 }
 
