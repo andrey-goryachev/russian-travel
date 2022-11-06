@@ -1,0 +1,10 @@
+.place__web-site {
+  align-self: end;
+}
+
+@media screen and (max-width: 750px) {
+  .place__web-site {
+    width: 288px;
+    justify-self: center;
+  }
+}

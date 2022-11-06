@@ -4,7 +4,10 @@
   margin: 8px 0 0;
   padding: 0;
   text-align: left;
-  font: 400 normal 10px/1.4 Inter, serif ;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.4;
   letter-spacing: 1.5px;
   text-transform: uppercase;
   box-sizing: border-box;
