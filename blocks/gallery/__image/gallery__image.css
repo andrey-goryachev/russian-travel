@@ -1,7 +1,7 @@
 .gallery__image {
   width: 284px;
   height: 213px;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 @media screen and (max-width: 1184px) {

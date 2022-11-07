@@ -8,20 +8,21 @@
 @media screen and (max-width: 1010px) {
   .intro {
     width: 93.75vw;
-    padding: 0;
+    padding-right: 0;
   }
 }
 
 @media screen and (max-width: 768px) {
   .intro {
-    padding: 0;
-    margin: 88px auto;
+    margin-top: 88px;
+    margin-bottom: 88px;
   }
 }
 
 @media screen and (max-width: 425px) {
   .intro {
     width: 288px;
-    margin: 64px auto;
+    margin-top: 64px;
+    margin-bottom: 64px;
   }
 }

@@ -6,22 +6,12 @@
   text-decoration: none;
   color: #fff;
   text-align: center;
-
-  display: inline-block;
-  width: 30px;
-  min-height: 28px;
 }
 
-@media screen and (max-width: 768px){
-  .header__link {
-  }
-}
 
 @media screen and (max-width: 425px){
   .header__link {
     font-size: 18px;
     line-height: 20px;
-    width: 22px;
-    min-height: 20px;
   }
 }
