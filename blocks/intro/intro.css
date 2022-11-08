@@ -5,7 +5,14 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 1010px) {
+@media screen and (max-width: 1024px) {
+  .intro {
+    width: 90.625vw;
+    padding-right: 238px;
+  }
+}
+
+@media screen and (max-width: 950px) {
   .intro {
     width: 93.75vw;
     padding-right: 0;
